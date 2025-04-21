@@ -1,3 +1,17 @@
+## How you used AI tools
+
+I used v0 to create some components: https://v0.dev/
+
+## Known limitations or next steps
+
+This project requires a better way to scale data, schemas can be improved to reduce time complexity and server resources
+
+## Setup instructions
+
+Run ```npm install``` and then ```npm run dev```
+
+## Known limitations or next steps
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
